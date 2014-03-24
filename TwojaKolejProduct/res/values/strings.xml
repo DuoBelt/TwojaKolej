@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wagony kolejowe</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="hello_world">Hello</string>
+
+</resources>
