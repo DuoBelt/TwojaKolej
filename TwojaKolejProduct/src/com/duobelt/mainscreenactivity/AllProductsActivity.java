@@ -26,6 +26,7 @@ import android.widget.TextView;
 public class AllProductsActivity extends ListActivity {
 	
 	private String TAG = "DuoBelt";
+	private String TAG2 = "DuoBelt2";
  
     // Progress Dialog private
     private ProgressDialog pDialog;
