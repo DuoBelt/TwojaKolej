@@ -27,7 +27,7 @@ public class AllProductsActivity extends ListActivity {
 	
 	private String TAG = "DuoBelt";
  
-    // Progress Dialog
+    // Progress Dialog private
     private ProgressDialog pDialog;
  
     // Creating JSON Parser object
